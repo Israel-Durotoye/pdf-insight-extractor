@@ -3,5 +3,6 @@ uvicorn
 chromadb
 pydantic
 numpy
+python-multipart
 transformers
 sentence-transformers
