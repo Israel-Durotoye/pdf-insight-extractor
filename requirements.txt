@@ -5,7 +5,6 @@ pydantic
 fitz
 paddleocr
 pillow
-io
 langchain
 flagembedding
 shutil
