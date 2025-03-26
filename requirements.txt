@@ -7,7 +7,6 @@ paddleocr
 pillow
 langchain
 flagembedding
-shutil
 numpy
 python-multipart
 transformers
