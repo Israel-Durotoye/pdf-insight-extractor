@@ -2,6 +2,13 @@ fastapi
 uvicorn
 chromadb
 pydantic
+fitz
+paddleocr
+pillow
+io
+langchain
+flagembedding
+shutil
 numpy
 python-multipart
 transformers
