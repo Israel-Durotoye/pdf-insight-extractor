@@ -4,6 +4,7 @@ chromadb
 pydantic
 pymupdf
 paddleocr
+paddlepaddle
 pillow
 langchain
 flagembedding
