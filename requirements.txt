@@ -2,7 +2,7 @@ fastapi
 uvicorn
 chromadb
 pydantic
-fitz
+pymupdf
 paddleocr
 pillow
 langchain
